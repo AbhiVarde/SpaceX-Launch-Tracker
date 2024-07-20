@@ -175,7 +175,7 @@ function Home({ launch, loading }) {
           Follow:
           <a
             className="underline ml-1"
-            href="https://twitter.com/spacex"
+            href="https://www.abhivarde.in/"
             target="_blank"
             rel="noopener noreferrer"
           >
